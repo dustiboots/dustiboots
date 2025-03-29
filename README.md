@@ -19,6 +19,6 @@ hello y'all! glad to know you!
 ```markdown
 
 
-![this gives me life](https://github.com/dustiboots/dustiboots/blob/main/assets/20241212_170436.jpg)
+![photo of me. i have long dark hair in a messy top knot. i'm wearing red glasses and smiling. i have light skin and present femme.](https://github.com/dustiboots/dustiboots/blob/main/assets/20250214_093400_resized-square.jpg)
 ```
 ![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=dustiboots&theme=dark&layout=compact&type=piechart)
