@@ -24,6 +24,6 @@ Other        45 mins        ██░░░░░░░░░░░░░░░�
 ```markdown
 <a href="https://linkedin.com/in/dustiyamaguchi">Connect with me on LinkedIn</a>
 
-![Community Building](https://via.placeholder.com/800x400.png?text=Building+Community+Together)
+![this gives me life](https://github.com/dustiboots/dustiboots/blob/main/assets/20241212_170436.jpg)
 ```
 ![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=dustiboots&theme=dark&layout=compact&type=piechart)](https://github.com/KasRoudra/github-stats-card)
