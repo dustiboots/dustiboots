@@ -18,7 +18,10 @@ hello y'all! glad to know you!
 <!--END_SECTION:waka-->
 ```markdown
 
+<!--START_SECTION:waka-->
 
-[graphic art of missy elliott as a stencil](https://github.com/dustiboots/dustiboots/blob/main/assets/Missy%20Elliott%20artworks-000104723271-sgt8j5-t500x500.jpg)
+![graphic art stencil of missy elliott. text: "this is not a test. Missy Elliott"](https://github.com/dustiboots/dustiboots/blob/main/assets/Missy%20Elliott%20artworks-000104723271-sgt8j5-t500x500.jpg)
+<!--END_SECTION:waka-->
+
 ```
 ![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=dustiboots&theme=dark&layout=compact&type=piechart)
