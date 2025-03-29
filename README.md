@@ -14,16 +14,11 @@ hello y'all! glad to know you!
 - 😄 Pronouns: the/them/theirs
 - ⚡ Fun fact: i met Dolly Parton, fell into the abbyss of her cleavage and emerged reborn :butterfly:
 <!--START_SECTION:waka-->
-```text
-HTML         5 hrs 30 mins ██████████████░░░░░░░░░░░   55.00 % 
-CSS          2 hrs 15 mins ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-JavaScript   1 hr 30 mins  ███░░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Other        45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-```
+[Let's connect on Linkedin!](https://linkedin.com/in/dustiyamaguchi)
 <!--END_SECTION:waka-->
 ```markdown
-<a href="https://linkedin.com/in/dustiyamaguchi">Connect with me on LinkedIn</a>
+
 
 ![this gives me life](https://github.com/dustiboots/dustiboots/blob/main/assets/20241212_170436.jpg)
 ```
-![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=dustiboots&theme=dark&layout=compact&type=piechart)](https://github.com/KasRoudra/github-stats-card)
+![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=dustiboots&theme=dark&layout=compact&type=piechart)
