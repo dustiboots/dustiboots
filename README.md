@@ -14,13 +14,10 @@ hello y'all! glad to know you!
 - 😄 Pronouns: the/them/theirs
 - ⚡ Fun fact: i met Dolly Parton, fell into the abbyss of her cleavage and emerged reborn :butterfly:
 
-![graphic art stencil of missy elliott. text: "this is not a test. Missy Elliott"](https://github.com/dustiboots/dustiboots/blob/main/assets/Missy%20Elliott%20artworks-000104723271-sgt8j5-t500x500.jpg)
-
 <!--START_SECTION:waka-->
 [Let's connect on Linkedin!](https://linkedin.com/in/dustiyamaguchi)
 <!--END_SECTION:waka-->
-```markdown
 
+![photo of me. i have long dark hair in a messy top knot. i'm wearing red glasses and smiling. i'm a femme presenting non-binary person with light skin. i have wrinkles around my eyes.](https://github.com/dustiboots/dustiboots/blob/main/assets/20250214_093400_resized-square.jpg)
 
-```
 ![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=dustiboots&theme=dark&layout=compact&type=piechart)
