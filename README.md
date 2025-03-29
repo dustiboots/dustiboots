@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 i’m currently learning HTML5, CSS, SEO, Digital Marketing, Social Media Marketing, digital accessibility, and loving boundaried interdependence
 - 👯 let's collaborate and build community! :raised_hands:
 - 🤔 let's create our collective future where we all can thrive.
-- 💬 Ask me about my Raven 🖤🐦‍⬛:blackheart:::blackbird:
+- 💬 Ask me about my Raven 🖤🐦‍⬛::blackheart:: ::blackbird::
 - 📫 How to reach me: @dusti.boots on IG and TikTok
 - 😄 Pronouns: the/them/theirs
 - ⚡ Fun fact: i met Dolly Parton, fell into the abbyss of her cleavage and emerged reborn :butterfly:
