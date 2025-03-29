@@ -19,6 +19,6 @@ hello y'all! glad to know you!
 ```markdown
 
 
-![photo of me. i have long dark hair in a messy top knot. i'm wearing red glasses and smiling. i have light skin and present femme.](https://github.com/dustiboots/dustiboots/blob/main/assets/20250214_093400_resized-square.jpg)
+![graphic art of missy elliott as a stencil](https://github.com/dustiboots/dustiboots/blob/main/assets/Missy%20Elliott%20artworks-000104723271-sgt8j5-t500x500.jpg)
 ```
 ![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=dustiboots&theme=dark&layout=compact&type=piechart)
