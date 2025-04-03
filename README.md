@@ -20,7 +20,8 @@ hello y'all! glad to know you!
 
 ![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=dustiboots&theme=dark&layout=compact&type=piechart)
 
-![img](https://github.com/dustiboots/dustiboots/blob/main/assets/20250214_093400_resized-square.jpg "width=100" "height=100")
+![img](https://github.com/dustiboots/dustiboots/blob/main/assets/20250214_093400_resized-square.jpg)
 
 ![alt text](https://github.com/dustiboots/dustiboots/blob/main/assets/20250214_093400_resized-square.jpg "photo of me. i have long dark hair in a messy top knot. i'm wearing red glasses and smiling. i'm a femme presenting non-binary person with light skin. i have wrinkles around my eyes.")
 
+<img src="20250214_093400_resized-square.jpg" width="100" height="100">
